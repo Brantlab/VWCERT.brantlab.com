@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Services We Provide"
+  text: "We can be flexible as the mission requires but we have a core set of skills we specialize in."
+  cards:
+    - image: "images/IMG_6653.jpeg"
+      title: "Rehab / Canteen"
+      text: "Rehab and Canteen service provides essential support to emergency responders during extended incidents. These services offer hydration, nutrition, and a place for personnel to rest and recover, ensuring their safety and wellbeing while maintaining operational effectiveness. By addressing physical and mental fatigue, rehab teams help responders stay focused and resilient in demanding environments. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/IMG_6652.jpeg"
+      title: "Traffic Control"
+      text: "Traffic Control services play a critical role in ensuring the safety of both emergency responders and the public during incidents. By managing the flow of vehicles around the scene, these services help prevent accidents, maintain access for emergency vehicles, and create a secure environment for responders to perform their duties efficiently."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/IMG_6655.jpeg"
+      title: "Case Work"
+      text: "Case Work Services assist individuals and families affected by house fires by providing immediate support and resources. This includes helping them secure temporary lodging, access to basic supplies and clothing, and connecting them with donations to aid in their recovery. These services are designed to offer stability and comfort during a time of crisis."
+      button:
+        label: "Learn more"
+        url: "#"

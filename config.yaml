@@ -1,0 +1,90 @@
+baseURL: "https://vwcert.brantlab.com"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Van Wert County CERT"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Van Wert CERT"
+  description: "Neighbors helping neighbors, trained to respond and ready to serve in times of crisis."
+  images: 
+    - "images/cert-logo.png"
+
+  logo: "images/cert-logo.png"
+
+  favicons:
+    themeColor: "#556B2F"
+    backgroundColor: "#556B2F"
+    faviconColor: "#556B2F"
+
+  social:
+#    dribbble: "#"
+#    instagram: "#"
+    facebook: "https://www.facebook.com/vwcert/"
+#   twitter: "#"
+
+  location:
+    - "1220 Lincoln Hwy. Van Wert, Ohio 45832"
+
+  contact:
+    - "VWcert18@gmail.com"
+    - "419.623.1095"
+
+  copyright: "Van Wert CERT© 2024 All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    - name: "Resources"
+      url: "/#"
+      weight: 4
+
+#    - name: "Blog"
+#      url: "/blog"
+#      weight: 5
+
+#  buttons:
+#    - name: "Book a call"
+#      url: "/#"
+#      weight: 5
+#      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Van Wert EMA"
+      url: "https://www.vanwertcountyohio.gov/government/ema_office/index.php"
+      weight: 1
+
+    - name: "Van Wert Sheriff"
+      url: "https://www.vanwertcountyohio.gov/government/sheriff/index.php"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+    - name: "Resources"
+      url: "/#"
+      weight: 4
+
+#    - name: "Blog"
+#      url: "/blog"
+#      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"
