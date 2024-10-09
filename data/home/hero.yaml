@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Community Emergency Response Team"
+  text: "Neighbors helping neighbors, trained to respond and ready to serve in times of crisis."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+
