@@ -4,7 +4,14 @@ title = "CERT Team Rehab Services"
 description = ""
 +++
 
-When emergencies arise, responders push their limits to serve the community. Our CERT Rehab Unit is here to ensure those responders stay safe, healthy, and ready to perform. We provide essential support services to firefighters, EMTs, police officers, and volunteers during extended operations or extreme conditions.
+
+When emergencies arise, responders push their limits to serve the community. Our **CERT** Rehab Unit is here to ensure those responders stay safe, healthy, and ready to perform. We provide essential support services to firefighters, EMTs, police officers, and volunteers during extended operations or extreme conditions.
+
+
+{{< image src="/images/IMG_3079.jpeg" alt="Example Image">}}
+
+---
+
 
 ### **Our Services**
 
