@@ -10,14 +10,14 @@ content:
       text: "Rehab and Canteen service provides essential support to emergency responders during extended incidents. These services offer hydration, nutrition, and a place for personnel to rest and recover, ensuring their safety and wellbeing while maintaining operational effectiveness. By addressing physical and mental fatigue, rehab teams help responders stay focused and resilient in demanding environments. "
       button:
         label: "Learn more"
-        url: "#"
+        url: "/canteen"
 
     - image: "images/IMG_6652.jpeg"
       title: "Traffic Control"
       text: "Traffic Control services play a critical role in ensuring the safety of both emergency responders and the public during incidents. By managing the flow of vehicles around the scene, these services help prevent accidents, maintain access for emergency vehicles, and create a secure environment for responders to perform their duties efficiently."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/traffic"
 
     - image: "images/IMG_6655.jpeg"
       title: "Case Work"

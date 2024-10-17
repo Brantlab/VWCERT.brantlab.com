@@ -57,5 +57,19 @@
       <guid>http://localhost:1313/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
     </item>
+    <item>
+      <title>CERT Team Rehab Services</title>
+      <link>http://localhost:1313/canteen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/canteen/</guid>
+      <description>When emergencies arise, responders push their limits to serve the community. Our CERT Rehab Unit is here to ensure those responders stay safe, healthy, and ready to perform.</description>
+    </item>
+    <item>
+      <title>Traffic Control Services</title>
+      <link>http://localhost:1313/traffic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/traffic/</guid>
+      <description>Our CERT team provides professional traffic control services to support a wide range of events and emergency situations. Whether at accident scenes, parades, or community events, our goal is to ensure the safety of responders, participants, and the public by managing vehicle and pedestrian movement effectively.</description>
+    </item>
   </channel>
 </rss>
