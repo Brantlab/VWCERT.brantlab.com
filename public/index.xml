@@ -58,11 +58,25 @@
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
     </item>
     <item>
+      <title>CERT Team Case Work</title>
+      <link>http://localhost:1313/casework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/casework/</guid>
+      <description>Losing a home can be devastating. We at CERT want you to know that we are here for you in the event a disaster strikes, and you need assistance.</description>
+    </item>
+    <item>
       <title>CERT Team Rehab Services</title>
       <link>http://localhost:1313/canteen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/canteen/</guid>
       <description>When emergencies arise, responders push their limits to serve the community. Our CERT Rehab Unit is here to ensure those responders stay safe, healthy, and ready to perform.</description>
+    </item>
+    <item>
+      <title>Our Team</title>
+      <link>http://localhost:1313/ourteam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ourteam/</guid>
+      <description>Van Wert County CERT is an official emergency preparedness program of the Van Wert County Emergency Management Agency.&#xA;Leadership Rick McCoy Van Wert County EMA Director</description>
     </item>
     <item>
       <title>Traffic Control Services</title>
