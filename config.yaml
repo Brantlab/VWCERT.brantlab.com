@@ -51,7 +51,7 @@ menus:
       weight: 3
 
     - name: "Resources"
-      url: "/#"
+      url: "/resources"
       weight: 4
 
 #    - name: "Blog"
