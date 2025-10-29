@@ -11,13 +11,16 @@ Van Wert County CERT is an official emergency preparedness program of the Van We
 
 #### Rick McCoy  
 **Van Wert County EMA Director**  
-*Insert bio on Rick*
+
+Rick McCoy serves as the Director of the Van Wert County Emergency Management Agency (EMA), where he leads the county’s efforts in emergency preparedness, response, and recovery. With decades of service to the community, Rick coordinates closely with local first responders, law enforcement, and volunteer organizations to ensure Van Wert County is ready for any emergency—ranging from severe weather and hazardous materials incidents to large-scale public safety operations. Under his leadership, Van Wert County has been recognized as a NOAA “StormReady” community and continues to strengthen its communication and alert systems. Rick is known for his hands-on approach, community outreach, and dedication to public safety across the region.
 
 ---
 
 #### Matt Saunier  
-**Chairman**  
-*Insert bio on Matt LD*
+**Deputy Director, Van Wert County Emergency Management Agency (EMA) | Chairman, Van Wert County CERT**  
+
+Matt Saunier serves as Deputy Director of the Van Wert County Emergency Management Agency (EMA) and as Chairman of the Van Wert County Community Emergency Response Team (CERT). In his roles, Matt supports comprehensive emergency preparedness, response, and recovery efforts, collaborating with fire, law enforcement, EMS, and volunteer organizations to enhance public safety and resilience in the region. He also leads the CERT program, coordinating training, community outreach, and operational support for disaster response and large-scale events. Matt is recognized for his dedication to teamwork, practical training, and strengthening county-wide emergency capabilities.
+
 
 ---
 #### Kevin King
