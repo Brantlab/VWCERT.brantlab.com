@@ -9,7 +9,8 @@ Van Wert County CERT is an official emergency preparedness program of the Van We
 
 ## **Leadership**
 
-{{< image src="/images/rick.png" alt="Rick McCoy" style="width:150px; border-radius:8px;">}}
+{{< image src="/images/rick.png" alt="Rick McCoy" width="350px" radius="8px" >}}
+
 #### Rick McCoy  
 **Van Wert County EMA Director**  
 

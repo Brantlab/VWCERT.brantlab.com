@@ -7,9 +7,9 @@ content:
 
   buttonPrimary:
     label: "How we work"
-    url: "#"
+    url: "/how_we_work/"
 
   buttonSecondary:
     label: "Let's talk"
-    url: ""
+    url: "mailto:VWcert18@gmail.com"
 

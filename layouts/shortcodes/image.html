@@ -1,5 +1,10 @@
 <img 
   src="{{ .Get "src" }}" 
   alt="{{ .Get "alt" }}" 
-  style="width:{{ .Get "width" | default "100%" }}; height:{{ .Get "height" | default "auto" }}; object-fit:cover;" 
+  style="
+    width:{{ .Get "width" | default "100%" }};
+    height:{{ .Get "height" | default "auto" }};
+    border-radius:{{ .Get "radius" | default "0" }};
+    object-fit:cover;
+  " 
 />
